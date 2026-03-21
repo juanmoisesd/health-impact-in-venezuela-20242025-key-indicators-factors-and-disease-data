@@ -1,0 +1,42 @@
+{
+  "name": "health-impact-in-venezuela-20242025-key-indicators-factors-and-disease-data",
+  "title": "Comprehensive dataset of key health indicators for Venezuela (2020-2025). Includes mental health metrics (depression, anxiety, suicide rates), healthcare workforce decline, infectious disease burden (malaria, dengue, HIV, measles), non-communicable d",
+  "description": "Comprehensive dataset of key health indicators for Venezuela (2020-2025). Includes mental health metrics (depression, anxiety, suicide rates), healthcare workforce decline, infectious disease burden (malaria, dengue, HIV, measles), non-communicable d",
+  "version": "1.0.0",
+  "licenses": [
+    {
+      "name": "CC0-1.0",
+      "title": "CC0 1.0 Universal",
+      "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Juan Moisés de la Serna Tuya",
+      "path": "https://orcid.org/0000-0002-8401-8018",
+      "role": "author",
+      "organization": "Universidad Internacional de La Rioja (UNIR)"
+    }
+  ],
+  "keywords": [
+    "cc0",
+    "dataset",
+    "health-indicators",
+    "healthcare-crisis",
+    "longitudinal-dataset",
+    "malaria",
+    "mental-health",
+    "open-data",
+    "paho",
+    "public-health",
+    "venezuela",
+    "zenodo"
+  ],
+  "sources": [
+    {
+      "title": "Compiled from public sources",
+      "path": "https://github.com/juanmoisesd/health-impact-in-venezuela-20242025-key-indicators-factors-and-disease-data"
+    }
+  ],
+  "created": "2026-03-20"
+}
