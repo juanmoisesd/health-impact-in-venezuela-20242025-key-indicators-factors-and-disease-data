@@ -1,0 +1,46 @@
+{
+  "@context": "https://w3id.org/ro/crate/1.1/context",
+  "@graph": [
+    {
+      "@type": "CreativeWork",
+      "@id": "ro-crate-metadata.json",
+      "conformsTo": {
+        "@id": "https://w3id.org/ro/crate/1.1"
+      },
+      "about": {
+        "@id": "./"
+      }
+    },
+    {
+      "@type": [
+        "Dataset"
+      ],
+      "@id": "./",
+      "name": "Comprehensive dataset of key health indicators for Venezuela (2020-2025). Includes mental health metrics (depression, anxiety, suicide rates), healthcare workforce decline, infectious disease burden (malaria, dengue, HIV, measles), non-communicable d",
+      "description": "Comprehensive dataset of key health indicators for Venezuela (2020-2025). Includes mental health metrics (depression, anxiety, suicide rates), healthcare workforce decline, infectious disease burden (malaria, dengue, HIV, measles), non-communicable d",
+      "datePublished": "2026-03-20",
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "author": {
+        "@id": "https://orcid.org/0000-0002-8401-8018"
+      },
+      "url": "https://github.com/juanmoisesd/health-impact-in-venezuela-20242025-key-indicators-factors-and-disease-data",
+      "keywords": "cc0, dataset, health-indicators, healthcare-crisis, longitudinal-dataset, malaria, mental-health, open-data, paho, public-health, venezuela, zenodo"
+    },
+    {
+      "@type": "Person",
+      "@id": "https://orcid.org/0000-0002-8401-8018",
+      "name": "Juan Moisés de la Serna Tuya",
+      "affiliation": {
+        "@id": "https://ror.org/0063t5s24"
+      },
+      "email": "juanmoises.delaserna@unir.net"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "name": "CC0 1.0 Universal"
+    }
+  ]
+}
