@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Comprehensive dataset of key health indicators for Venezuela (2020-2025). Includes mental health metrics (depression, anxiety, suicide rates), healthcare workforce decline, infectious disease burden (malaria, dengue, HIV, measles), non-communicable d",
+  "description": "Comprehensive dataset of key health indicators for Venezuela (2020-2025). Includes mental health metrics (depression, anxiety, suicide rates), healthcare workforce decline, infectious disease burden (malaria, dengue, HIV, measles), non-communicable d",
+  "url": "https://github.com/juanmoisesd/health-impact-in-venezuela-20242025-key-indicators-factors-and-disease-data",
+  "sameAs": "https://juanmoisesd.github.io/health-impact-in-venezuela-20242025-key-indicators-factors-and-disease-data/",
+  "identifier": "https://github.com/juanmoisesd/health-impact-in-venezuela-20242025-key-indicators-factors-and-disease-data",
+  "author": {
+    "@type": "Person",
+    "name": "Juan Moisés de la Serna Tuya",
+    "@id": "https://orcid.org/0000-0002-8401-8018",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Universidad Internacional de La Rioja (UNIR)"
+    },
+    "email": "juanmoises.delaserna@unir.net"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Universidad Internacional de La Rioja (UNIR)",
+    "url": "https://www.unir.net"
+  },
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "datePublished": "2026-03-20",
+  "dateModified": "2026-03-20",
+  "keywords": "cc0, dataset, health-indicators, healthcare-crisis, longitudinal-dataset, malaria, mental-health, open-data, paho, public-health, venezuela, zenodo",
+  "inLanguage": [
+    "es",
+    "en"
+  ],
+  "isAccessibleForFree": true,
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://github.com/juanmoisesd/health-impact-in-venezuela-20242025-key-indicators-factors-and-disease-data"
+    }
+  ]
+}
