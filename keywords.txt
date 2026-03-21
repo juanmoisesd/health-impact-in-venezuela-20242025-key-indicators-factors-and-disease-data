@@ -1,0 +1,11 @@
+cc0, dataset, health-indicators, healthcare-crisis, longitudinal-dataset, malaria, mental-health, open-data, paho, public-health, venezuela, zenodo
+open-data
+dataset
+research
+science
+FAIR
+reproducibility
+open-science
+academic
+citation
+DOI
