@@ -1,0 +1,184 @@
+{
+  "datasetVersion": {
+    "title": "Comprehensive dataset of key health indicators for Venezuela (2020-2025). Includes mental health metrics (depression, anxiety, suicide rates), healthcare workforce decline, infectious disease burden (malaria, dengue, HIV, measles), non-communicable d",
+    "description": "<p>Comprehensive dataset of key health indicators for Venezuela (2020-2025). Includes mental health metrics (depression, anxiety, suicide rates), healthcare workforce decline, infectious disease burden (malaria, dengue, HIV, measles), non-communicable d</p>",
+    "subject": [
+      "Computer and Information Science",
+      "Social Sciences",
+      "Medicine, Health and Life Sciences"
+    ],
+    "keyword": [
+      {
+        "typeName": "keyword",
+        "value": {
+          "keywordValue": {
+            "typeName": "keywordValue",
+            "value": "cc0"
+          }
+        }
+      },
+      {
+        "typeName": "keyword",
+        "value": {
+          "keywordValue": {
+            "typeName": "keywordValue",
+            "value": "dataset"
+          }
+        }
+      },
+      {
+        "typeName": "keyword",
+        "value": {
+          "keywordValue": {
+            "typeName": "keywordValue",
+            "value": "health-indicators"
+          }
+        }
+      },
+      {
+        "typeName": "keyword",
+        "value": {
+          "keywordValue": {
+            "typeName": "keywordValue",
+            "value": "healthcare-crisis"
+          }
+        }
+      },
+      {
+        "typeName": "keyword",
+        "value": {
+          "keywordValue": {
+            "typeName": "keywordValue",
+            "value": "longitudinal-dataset"
+          }
+        }
+      },
+      {
+        "typeName": "keyword",
+        "value": {
+          "keywordValue": {
+            "typeName": "keywordValue",
+            "value": "malaria"
+          }
+        }
+      },
+      {
+        "typeName": "keyword",
+        "value": {
+          "keywordValue": {
+            "typeName": "keywordValue",
+            "value": "mental-health"
+          }
+        }
+      },
+      {
+        "typeName": "keyword",
+        "value": {
+          "keywordValue": {
+            "typeName": "keywordValue",
+            "value": "open-data"
+          }
+        }
+      },
+      {
+        "typeName": "keyword",
+        "value": {
+          "keywordValue": {
+            "typeName": "keywordValue",
+            "value": "paho"
+          }
+        }
+      },
+      {
+        "typeName": "keyword",
+        "value": {
+          "keywordValue": {
+            "typeName": "keywordValue",
+            "value": "public-health"
+          }
+        }
+      },
+      {
+        "typeName": "keyword",
+        "value": {
+          "keywordValue": {
+            "typeName": "keywordValue",
+            "value": "venezuela"
+          }
+        }
+      },
+      {
+        "typeName": "keyword",
+        "value": {
+          "keywordValue": {
+            "typeName": "keywordValue",
+            "value": "zenodo"
+          }
+        }
+      }
+    ],
+    "author": [
+      {
+        "authorName": {
+          "typeName": "authorName",
+          "value": "de la Serna Tuya, Juan"
+        },
+        "authorAffiliation": {
+          "typeName": "authorAffiliation",
+          "value": "Universidad Internacional de La Rioja (UNIR)"
+        },
+        "authorIdentifierScheme": {
+          "typeName": "authorIdentifierScheme",
+          "value": "ORCID"
+        },
+        "authorIdentifier": {
+          "typeName": "authorIdentifier",
+          "value": "0000-0002-8401-8018"
+        }
+      }
+    ],
+    "datasetContact": [
+      {
+        "datasetContactEmail": {
+          "typeName": "datasetContactEmail",
+          "value": "juanmoises.delaserna@unir.net"
+        },
+        "datasetContactName": {
+          "typeName": "datasetContactName",
+          "value": "Juan Moisés de la Serna Tuya"
+        }
+      }
+    ],
+    "dsDescription": [
+      {
+        "dsDescriptionValue": {
+          "typeName": "dsDescriptionValue",
+          "value": "Comprehensive dataset of key health indicators for Venezuela (2020-2025). Includes mental health metrics (depression, anxiety, suicide rates), healthcare workforce decline, infectious disease burden (malaria, dengue, HIV, measles), non-communicable d"
+        }
+      }
+    ],
+    "language": [
+      "Spanish",
+      "English"
+    ],
+    "kindOfData": [
+      "Dataset"
+    ],
+    "license": "CC0 1.0",
+    "distributor": [
+      {
+        "distributorName": {
+          "typeName": "distributorName",
+          "value": "GitHub"
+        },
+        "distributorURL": {
+          "typeName": "distributorURL",
+          "value": "https://github.com/juanmoisesd/health-impact-in-venezuela-20242025-key-indicators-factors-and-disease-data"
+        }
+      }
+    ],
+    "distributionDate": "2026-03-20",
+    "depositor": "Juan Moisés de la Serna Tuya",
+    "dateOfDeposit": "2026-03-20"
+  }
+}
