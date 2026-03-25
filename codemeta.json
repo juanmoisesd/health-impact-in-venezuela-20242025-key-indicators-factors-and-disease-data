@@ -1,51 +1,26 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
   "@type": "SoftwareSourceCode",
-  "name": "Comprehensive dataset of key health indicators for Venezuela (2020-2025). Includes mental health metrics (depression, anxiety, suicide rates), healthcare workforce decline, infectious disease burden (malaria, dengue, HIV, measles), non-communicable d",
-  "description": "Comprehensive dataset of key health indicators for Venezuela (2020-2025). Includes mental health metrics (depression, anxiety, suicide rates), healthcare workforce decline, infectious disease burden (malaria, dengue, HIV, measles), non-communicable d",
-  "url": "https://github.com/juanmoisesd/health-impact-in-venezuela-20242025-key-indicators-factors-and-disease-data",
-  "codeRepository": "https://github.com/juanmoisesd/health-impact-in-venezuela-20242025-key-indicators-factors-and-disease-data",
-  "dateCreated": "2026-03-20",
-  "dateModified": "2026-03-20",
-  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "name": "Comprehensive dataset of key health indicators for Venezuela (2020-2025). Includes mental health met",
   "version": "1.0.0",
+  "identifier": "https://github.com/juanmoisesd/health-impact-in-venezuela-20242025-key-indicators-factors-and-disease-data",
+  "datePublished": "2025",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "codeRepository": "https://github.com/juanmoisesd/health-impact-in-venezuela-20242025-key-indicators-factors-and-disease-data",
   "author": [
     {
       "@type": "Person",
       "givenName": "Juan Moisés",
-      "familyName": "de la Serna Tuya",
-      "@id": "https://orcid.org/0000-0002-8401-8018",
+      "familyName": "de la Serna",
       "affiliation": {
         "@type": "Organization",
         "name": "Universidad Internacional de La Rioja (UNIR)"
-      },
-      "email": "juanmoises.delaserna@unir.net"
+      }
     }
   ],
-  "keywords": [
-    "cc0",
-    "dataset",
-    "health-indicators",
-    "healthcare-crisis",
-    "longitudinal-dataset",
-    "malaria",
-    "mental-health",
-    "open-data",
-    "paho",
-    "public-health",
-    "venezuela",
-    "zenodo"
+  "programmingLanguage": [
+    "Python",
+    "Jupyter Notebook"
   ],
-  "programmingLanguage": "HTML",
-  "maintainer": [
-    {
-      "@type": "Person",
-      "givenName": "Juan Moisés",
-      "familyName": "de la Serna Tuya"
-    }
-  ],
-  "funder": {
-    "@type": "Organization",
-    "name": "Universidad Internacional de La Rioja (UNIR)"
-  }
+  "keywords": "cc0, citation, dataset, fair-data, health-indicators, healthcare-crisis, juan-moises-de-la-serna, longitudinal-dataset, malaria, mental-health, open-data, open-science, orcid, paho, psychology, public-health, research, venezuela, wellbeing, zenodo"
 }
