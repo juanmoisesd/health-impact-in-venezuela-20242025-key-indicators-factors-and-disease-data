@@ -1,0 +1,23 @@
+{
+  "title": "Comprehensive dataset of key health indicators for Venezuela (2020-2025). Includ",
+  "id": "juanmoisesd/health-impact-in-venezuela-20242025-key-indicators",
+  "licenses": [
+    {
+      "name": "CC BY 4.0"
+    }
+  ],
+  "keywords": [
+    "cc0",
+    "citation",
+    "dataset",
+    "fair-data",
+    "health-indicators",
+    "healthcare-crisis",
+    "juan-moises-de-la-serna",
+    "longitudinal-dataset",
+    "malaria",
+    "mental-health"
+  ],
+  "description": "Comprehensive dataset of key health indicators for Venezuela (2020-2025). Includes mental health metrics (depression, anxiety, suicide rates), healthcare workforce decline, infectious disease burden (malaria, dengue, HIV, measles), non-communicable d\n\nDOI: https://github.com/juanmoisesd/health-impact-in-venezuela-20242025-key-indicators-factors-and-disease-data\nGitHub: https://github.com/juanmoisesd/health-impact-in-venezuela-20242025-key-indicators-factors-and-disease-data\nAuthor: de la Serna, Juan Moisés",
+  "isPrivate": false
+}
